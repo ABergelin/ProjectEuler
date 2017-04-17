@@ -6,6 +6,7 @@ public class problem1 {
 
 	public static void main(String[] args) {
 		// Working out the sum multiples of 3 or 5 below 1000
+		//doing some things
 		
 		ArrayList<Integer> list = new ArrayList<Integer>();
 		int total = 0;
